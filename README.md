@@ -3,10 +3,6 @@
 This project implements a reinforcement learning agent capable of playing **Street Fighter II** using the **Gym-Retro** environment.  
 It provides a full deep RL training pipeline, environment preprocessing, action discretization, reproducible Docker setup, and experiment tracking.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Street_Fighter_II_%28arcade_flyer%29.png" width="320"/>
-</p>
-
 ---
 
 ## 🚀 Project Overview
